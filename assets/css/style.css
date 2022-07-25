@@ -5,7 +5,7 @@
     padding-left: 50px;
 }
 .btn{
-  background-image: linear-gradient(180deg, #ff2379, #f384ad );
+  background-image: linear-gradient(180deg, #F1792D, #ff005d );
 }
 .price{
     color: #FF2379;
@@ -14,4 +14,11 @@
 .card-title{
     font-size: 30px;
     font-weight: 700;
+}
+footer{
+    height: 50px;
+    background-color: #6C757D;
+    text-align: center;
+    padding-top: 12px;
+
 }
